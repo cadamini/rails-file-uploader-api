@@ -64,7 +64,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     builder (3.2.4)
     byebug (11.1.1)
-    carrierwave (2.2.5)
+    carrierwave (2.2.6)
       activemodel (>= 5.0.0)
       activesupport (>= 5.0.0)
       addressable (~> 2.6)
@@ -80,7 +80,7 @@ GEM
     ffi (1.16.3-x64-mingw32)
     globalid (1.2.1)
       activesupport (>= 6.1)
-    i18n (1.14.1)
+    i18n (1.14.4)
       concurrent-ruby (~> 1.0)
     image_processing (1.12.2)
       mini_magick (>= 4.9.5, < 5)
@@ -95,12 +95,12 @@ GEM
       net-imap
       net-pop
       net-smtp
-    marcel (1.0.2)
+    marcel (1.0.4)
     method_source (1.0.0)
     mini_magick (4.12.0)
     mini_mime (1.1.5)
     mini_portile2 (2.8.5)
-    minitest (5.22.2)
+    minitest (5.22.3)
     net-imap (0.4.10)
       date
       net-protocol
